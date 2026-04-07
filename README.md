@@ -34,12 +34,13 @@ Run analytics script
 npm run start:topWorkplaces
 ```
 Example Output
+```bash
 [
   { "name": "Earth Ecology Enterprises", "shifts": 5 },
   { "name": "Saturn Systems", "shifts": 3 },
   { "name": "Venus Ventures", "shifts": 2 }
 ]
-
+```
 Business Impact
 
 This tool demonstrates how operational data can be transformed into actionable insights, enabling organizations to identify high-performing workplaces and optimize workforce allocation.
